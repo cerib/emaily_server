@@ -1,5 +1,6 @@
 dev.js
 .env*
+build
 
 # Logs
 logs
